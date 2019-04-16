@@ -7,3 +7,6 @@ Code examples and discussion topics for iOS Development.
 
 ## Session 2:
 - [Scroll View App](https://github.com/uchicago-mobi/scrollviewapp): In which we will save an endangered species of dragons by implementing a scroll view
+
+## Session 3:
+- [Podcast Picker](https://github.com/uchicago-mobi/podcastpicker): An app where we fetch a list of comedy podcasts and display them in a table view!
