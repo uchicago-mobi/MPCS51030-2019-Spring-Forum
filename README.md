@@ -9,4 +9,6 @@ Code examples and discussion topics for iOS Development.
 - [Scroll View App](https://github.com/uchicago-mobi/scrollviewapp): In which we will save an endangered species of dragons by implementing a scroll view
 
 ## Session 3:
-- [Podcast Picker](https://github.com/uchicago-mobi/podcastpicker): An app where we fetch a list of comedy podcasts and display them in a table view!
+- [Podcast Picker](https://github.com/uchicago-mobi/podcastpicker): An app where we fetch a list of comedy podcasts and display them in a table view.
+
+- [View Magic Guide](https://github.com/uchicago-mobi/ViewMagicGuide): A tab-based guide to custom drawing, view layers, a few types of animations, and gesture recognizers!
