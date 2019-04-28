@@ -13,3 +13,6 @@ Code examples and discussion topics for iOS Development.
 
 ## Session 4:
 - [View Magic Guide](https://github.com/uchicago-mobi/ViewMagicGuide): A tab-based guide to custom drawing, view layers, a few types of animations, and gesture recognizers!
+
+## Session 5:
+- [Charting](https://github.com/uchicago-mobi/charting): A tab-based guide to bar charts, line charts, and pie charts using the iOS Charts library. 
