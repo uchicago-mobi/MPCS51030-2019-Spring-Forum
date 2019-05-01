@@ -15,6 +15,6 @@ Code examples and discussion topics for iOS Development.
 - [View Magic Guide](https://github.com/uchicago-mobi/ViewMagicGuide): A tab-based guide to custom drawing, view layers, a few types of animations, and gesture recognizers!
 
 ## Session 5:
-- [Stack View Demo](https://github.com/uchicago-mobi/stackviewdemo) An app for demonstrating the magic of stack views
+- [Stack View Demo](https://github.com/uchicago-mobi/stackviewdemo): An app for demonstrating the magic of stack views
 - [Charting](https://github.com/uchicago-mobi/charting): A tab-based guide to bar charts, line charts, and pie charts using the iOS Charts library. 
 - [Fruit Split](https://github.com/uchicago-mobi/fruitsplit): A split view app for looking at weird pictures of fruits.
