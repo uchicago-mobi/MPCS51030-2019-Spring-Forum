@@ -18,3 +18,6 @@ Code examples and discussion topics for iOS Development.
 - [Stack View Demo](https://github.com/uchicago-mobi/stackviewdemo): An app for demonstrating the magic of stack views
 - [Charting](https://github.com/uchicago-mobi/charting): A tab-based guide to bar charts, line charts, and pie charts using the iOS Charts library. 
 - [Fruit Split](https://github.com/uchicago-mobi/fruitsplit): A split view app for looking at weird pictures of fruits.
+
+- [CocoaPodsInstallation](https://github.com/uchicago-mobi/CocoaPodsInstallation): Example app from class code-along about installing third party libraries
+- [SplitViewDemo](https://github.com/uchicago-mobi/SplitViewDemo): Example app from class code-along about creating a split view controller
