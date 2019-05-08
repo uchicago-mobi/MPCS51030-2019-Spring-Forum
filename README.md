@@ -24,6 +24,6 @@ Code examples and discussion topics for iOS Development.
 
 ## Session 6:
 - [Angry Birds](https://github.com/uchicago-mobi/angrybirds): The app that Angry Birds should have been, featuring UICollectionViews and resource-efficient image networking!
-- [Custom Control](https://github.com/uchicago-mobi/customcontrol): In which we perform exciting view pyrotechnics, review CALayers and learn about making our own delegates.
+- [Custom Control](https://github.com/uchicago-mobi/customcontrol): In which we perform exciting view pyrotechnics, review CALayers, and learn about making our own delegates.
 
 
