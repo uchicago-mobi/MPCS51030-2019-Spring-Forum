@@ -21,3 +21,6 @@ Code examples and discussion topics for iOS Development.
 
 - [CocoaPodsInstallation](https://github.com/uchicago-mobi/CocoaPodsInstallation): Example app from class code-along about installing third party libraries
 - [SplitViewDemo](https://github.com/uchicago-mobi/SplitViewDemo): Example app from class code-along about creating a split view controller
+
+## Session 6:
+- [Angry Birds](https://github.com/uchicago-mobi/angrybirds): The app that Angry Birds should have been, featuring UICollectionViews and resource-efficient image networking!
