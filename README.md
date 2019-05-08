@@ -26,4 +26,6 @@ Code examples and discussion topics for iOS Development.
 - [Angry Birds](https://github.com/uchicago-mobi/angrybirds): The app that Angry Birds should have been, featuring UICollectionViews and resource-efficient image networking!
 - [Custom Control](https://github.com/uchicago-mobi/customcontrol): In which we perform exciting view pyrotechnics, review CALayers, and learn about making our own delegates.
 
+* Spotify vs. Pandora: [A Breaktime Science Experiment](https://docs.google.com/spreadsheets/d/1ruVR1he1QjuHy4JpR_v2EkA_X1wHlGUqhzNo_xQ8gSc/edit?usp=sharing)
+
 
