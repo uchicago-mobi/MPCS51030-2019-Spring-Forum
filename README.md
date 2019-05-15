@@ -30,4 +30,8 @@ Code examples and discussion topics for iOS Development.
 
 [Class Activity Survey #2](https://docs.google.com/forms/d/e/1FAIpQLSewG12atB5uO3rH898YyO_ULFBk2qvET2UnOPg9MQ_ebVLdrg/viewform?usp=sf_link)
 
+## Session 7:
+
+[In My Feelings Challenge](https://github.com/uchicago-mobi/inmyfeelingschallenge)
+
 
