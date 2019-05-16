@@ -32,6 +32,6 @@ Code examples and discussion topics for iOS Development.
 
 ## Session 7:
 
-[In My Feelings Challenge](https://github.com/uchicago-mobi/inmyfeelingschallenge)
+- [In My Feelings Challenge](https://github.com/uchicago-mobi/inmyfeelingschallenge): A feelings journal app whose master branch does not persist the entries. The branches user-defaults, file-manager, and core-data demonstrate how to persist data in each of those ways.
 
 
