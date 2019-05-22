@@ -34,4 +34,9 @@ Code examples and discussion topics for iOS Development.
 
 - [In My Feelings Challenge](https://github.com/uchicago-mobi/inmyfeelingschallenge): A feelings journal app whose master branch does not persist the entries. The branches user-defaults, file-manager, and core-data demonstrate how to persist data in each of those ways.
 
+## Session 8:
+
+- [Bird Feeder](https://github.com/uchicago-mobi/birdfeeder): An app where you can put out birdseed and receive notifications when birds arrive.
+
+
 
