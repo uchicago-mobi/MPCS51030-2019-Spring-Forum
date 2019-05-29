@@ -42,6 +42,7 @@ Code examples and discussion topics for iOS Development.
 ## Session 9:
 
 - [Favorite Things](https://github.com/uchicago-mobi/favoritethings): An app with lists of some of my favorite things. We need to sort these lists, though.
+ - [Advanced Swift Playgrounds](https://github.com/uchicago-mobi/advancedswiftplaygrounds): For exploring some new concepts in Swift!
 
 
 
