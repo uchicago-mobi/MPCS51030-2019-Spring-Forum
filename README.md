@@ -40,6 +40,7 @@ Code examples and discussion topics for iOS Development.
 
 - [Bird Feeder](https://github.com/uchicago-mobi/birdfeeder): An app where you can put out birdseed and receive notifications when birds arrive.
 - [Custom Notification App](https://github.com/uchicago-mobi/customnotificationapp): An example setup for a customized notification alert!
+- [Settings Code Along](https://github.com/uchicago-mobi/settingscodealong): For learning about creating a setting!
 
 ## Session 9:
 
